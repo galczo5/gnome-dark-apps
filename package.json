@@ -1,0 +1,13 @@
+{
+  "name": "gnome-dark-apps",
+  "version": "1.0.0",
+  "description": "Set dark theme for selected apps in gnome",
+  "main": "dark_apps.js",
+  "preferGlobal": true,
+  "bin": {
+    "gnome_dark_apps": "./dark_apps.js"
+  },
+  "scripts": {},
+  "author": "github.com/galczo5",
+  "license": "MIT"
+}
